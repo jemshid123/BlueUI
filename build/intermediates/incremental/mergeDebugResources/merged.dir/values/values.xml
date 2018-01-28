@@ -200,6 +200,8 @@
             <enum name="screen" value="15"/>
         </attr></declare-styleable>
     <declare-styleable name="ViewStubCompat"><attr name="android:layout"/><attr name="android:inflatedId"/><attr name="android:id"/></declare-styleable>
+    <declare-styleable name="stl_SmartTabLayout"><attr format="boolean" name="stl_indicatorAlwaysInCenter"/><attr format="boolean" name="stl_indicatorWithoutPadding"/><attr format="boolean" name="stl_indicatorInFront"/><attr format="enum" name="stl_indicatorInterpolation"><enum name="smart" value="0"/><enum name="linear" value="1"/></attr><attr format="enum" name="stl_indicatorGravity"><enum name="bottom" value="0"/><enum name="top" value="1"/><enum name="center" value="2"/></attr><attr format="color" name="stl_indicatorColor"/><attr format="reference" name="stl_indicatorColors"/><attr format="dimension" name="stl_indicatorThickness"/><attr format="dimension" name="stl_indicatorWidth"><enum name="auto" value="-1"/></attr><attr format="dimension" name="stl_indicatorCornerRadius"/><attr format="color" name="stl_overlineColor"/><attr format="dimension" name="stl_overlineThickness"/><attr format="color" name="stl_underlineColor"/><attr format="dimension" name="stl_underlineThickness"/><attr format="color" name="stl_dividerColor"/><attr format="reference" name="stl_dividerColors"/><attr format="dimension" name="stl_dividerThickness"/><attr format="reference" name="stl_defaultTabBackground"/><attr format="boolean" name="stl_defaultTabTextAllCaps"/><attr format="color|reference" name="stl_defaultTabTextColor"/><attr format="dimension" name="stl_defaultTabTextSize"/><attr format="dimension" name="stl_defaultTabTextHorizontalPadding"/><attr format="dimension" name="stl_defaultTabTextMinWidth"/><attr format="reference" name="stl_customTabTextLayoutId"/><attr format="reference" name="stl_customTabTextViewId"/><attr format="boolean" name="stl_distributeEvenly"/><attr format="boolean" name="stl_clickable"/><attr format="dimension" name="stl_titleOffset"><enum name="auto_center" value="-1"/></attr><attr format="boolean" name="stl_drawDecorationAfterTab"/></declare-styleable>
+    <declare-styleable name="swipeTab"/>
     <dimen name="abc_action_bar_content_inset_material">16dp</dimen>
     <dimen name="abc_action_bar_content_inset_with_nav">72dp</dimen>
     <dimen name="abc_action_bar_default_height_material">56dp</dimen>
@@ -345,6 +347,7 @@
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="app_name">BlueUI</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>

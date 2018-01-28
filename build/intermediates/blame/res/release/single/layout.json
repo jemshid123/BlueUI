@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\others\\Desktop\\projects\\appfragment\\blueui\\build\\intermediates\\res\\merged\\release\\layout\\swipetablayout.xml",
+        "source": "C:\\Users\\others\\Desktop\\projects\\appfragment\\blueui\\src\\main\\res\\layout\\swipetablayout.xml"
+    },
+    {
         "merged": "C:\\Users\\others\\Desktop\\projects\\appfragment\\blueui\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
         "source": "C:\\Users\\others\\Desktop\\projects\\appfragment\\blueui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_part_chronometer.xml"
     },

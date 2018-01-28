@@ -1123,6 +1123,263 @@ theme attribute (in the form
 containing a value of this type.
          */
         public static final int state_above_anchor=0x7f0100b3;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int stl_clickable=0x7f0100fe;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int stl_customTabTextLayoutId=0x7f0100fb;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int stl_customTabTextViewId=0x7f0100fc;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int stl_defaultTabBackground=0x7f0100f5;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int stl_defaultTabTextAllCaps=0x7f0100f6;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int stl_defaultTabTextColor=0x7f0100f7;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int stl_defaultTabTextHorizontalPadding=0x7f0100f9;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int stl_defaultTabTextMinWidth=0x7f0100fa;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int stl_defaultTabTextSize=0x7f0100f8;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int stl_distributeEvenly=0x7f0100fd;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int stl_dividerColor=0x7f0100f2;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int stl_dividerColors=0x7f0100f3;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int stl_dividerThickness=0x7f0100f4;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int stl_drawDecorationAfterTab=0x7f010100;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int stl_indicatorAlwaysInCenter=0x7f0100e4;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int stl_indicatorColor=0x7f0100e9;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int stl_indicatorColors=0x7f0100ea;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int stl_indicatorCornerRadius=0x7f0100ed;
+        /** <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>bottom</code></td><td>0</td><td></td></tr>
+<tr><td><code>top</code></td><td>1</td><td></td></tr>
+<tr><td><code>center</code></td><td>2</td><td></td></tr>
+</table>
+         */
+        public static final int stl_indicatorGravity=0x7f0100e8;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int stl_indicatorInFront=0x7f0100e6;
+        /** <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>smart</code></td><td>0</td><td></td></tr>
+<tr><td><code>linear</code></td><td>1</td><td></td></tr>
+</table>
+         */
+        public static final int stl_indicatorInterpolation=0x7f0100e7;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int stl_indicatorThickness=0x7f0100eb;
+        /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>auto</code></td><td>-1</td><td></td></tr>
+</table>
+         */
+        public static final int stl_indicatorWidth=0x7f0100ec;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int stl_indicatorWithoutPadding=0x7f0100e5;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int stl_overlineColor=0x7f0100ee;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int stl_overlineThickness=0x7f0100ef;
+        /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>auto_center</code></td><td>-1</td><td></td></tr>
+</table>
+         */
+        public static final int stl_titleOffset=0x7f0100ff;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int stl_underlineColor=0x7f0100f0;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int stl_underlineThickness=0x7f0100f1;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -1834,111 +2091,116 @@ containing a value of this type.
         public static final int notify_panel_notification_icon_bg=0x7f02005c;
     }
     public static final class id {
-        public static final int action0=0x7f0a0059;
-        public static final int action_bar=0x7f0a0047;
+        public static final int action0=0x7f0a005e;
+        public static final int action_bar=0x7f0a004c;
         public static final int action_bar_activity_content=0x7f0a0000;
-        public static final int action_bar_container=0x7f0a0046;
-        public static final int action_bar_root=0x7f0a0042;
+        public static final int action_bar_container=0x7f0a004b;
+        public static final int action_bar_root=0x7f0a0047;
         public static final int action_bar_spinner=0x7f0a0001;
-        public static final int action_bar_subtitle=0x7f0a0025;
-        public static final int action_bar_title=0x7f0a0024;
-        public static final int action_container=0x7f0a0056;
-        public static final int action_context_bar=0x7f0a0048;
-        public static final int action_divider=0x7f0a005d;
-        public static final int action_image=0x7f0a0057;
+        public static final int action_bar_subtitle=0x7f0a002a;
+        public static final int action_bar_title=0x7f0a0029;
+        public static final int action_container=0x7f0a005b;
+        public static final int action_context_bar=0x7f0a004d;
+        public static final int action_divider=0x7f0a0062;
+        public static final int action_image=0x7f0a005c;
         public static final int action_menu_divider=0x7f0a0002;
         public static final int action_menu_presenter=0x7f0a0003;
-        public static final int action_mode_bar=0x7f0a0044;
-        public static final int action_mode_bar_stub=0x7f0a0043;
-        public static final int action_mode_close_button=0x7f0a0026;
-        public static final int action_text=0x7f0a0058;
-        public static final int actions=0x7f0a0065;
-        public static final int activity_chooser_view_content=0x7f0a0027;
+        public static final int action_mode_bar=0x7f0a0049;
+        public static final int action_mode_bar_stub=0x7f0a0048;
+        public static final int action_mode_close_button=0x7f0a002b;
+        public static final int action_text=0x7f0a005d;
+        public static final int actions=0x7f0a006a;
+        public static final int activity_chooser_view_content=0x7f0a002c;
         public static final int add=0x7f0a0013;
-        public static final int alertTitle=0x7f0a003b;
+        public static final int alertTitle=0x7f0a0040;
         public static final int always=0x7f0a001d;
+        public static final int auto=0x7f0a0027;
+        public static final int auto_center=0x7f0a0028;
         public static final int beginning=0x7f0a001a;
         public static final int bottom=0x7f0a0022;
-        public static final int buttonPanel=0x7f0a002e;
-        public static final int cancel_action=0x7f0a005a;
-        public static final int checkbox=0x7f0a003e;
-        public static final int chronometer=0x7f0a0062;
+        public static final int buttonPanel=0x7f0a0033;
+        public static final int cancel_action=0x7f0a005f;
+        public static final int center=0x7f0a0026;
+        public static final int checkbox=0x7f0a0043;
+        public static final int chronometer=0x7f0a0067;
         public static final int collapseActionView=0x7f0a001e;
-        public static final int contentPanel=0x7f0a0031;
-        public static final int custom=0x7f0a0038;
-        public static final int customPanel=0x7f0a0037;
-        public static final int decor_content_parent=0x7f0a0045;
-        public static final int default_activity_button=0x7f0a002a;
+        public static final int contentPanel=0x7f0a0036;
+        public static final int custom=0x7f0a003d;
+        public static final int customPanel=0x7f0a003c;
+        public static final int decor_content_parent=0x7f0a004a;
+        public static final int default_activity_button=0x7f0a002f;
         public static final int disableHome=0x7f0a000c;
-        public static final int edit_query=0x7f0a0049;
+        public static final int edit_query=0x7f0a004e;
         public static final int end=0x7f0a001b;
-        public static final int end_padder=0x7f0a006c;
-        public static final int expand_activities_button=0x7f0a0028;
-        public static final int expanded_menu=0x7f0a003d;
+        public static final int end_padder=0x7f0a0071;
+        public static final int expand_activities_button=0x7f0a002d;
+        public static final int expanded_menu=0x7f0a0042;
         public static final int home=0x7f0a0004;
         public static final int homeAsUp=0x7f0a000d;
-        public static final int icon=0x7f0a002c;
-        public static final int icon_group=0x7f0a0066;
+        public static final int icon=0x7f0a0031;
+        public static final int icon_group=0x7f0a006b;
         public static final int ifRoom=0x7f0a001f;
-        public static final int image=0x7f0a0029;
-        public static final int info=0x7f0a0063;
-        public static final int line1=0x7f0a0068;
-        public static final int line3=0x7f0a006a;
+        public static final int image=0x7f0a002e;
+        public static final int info=0x7f0a0068;
+        public static final int line1=0x7f0a006d;
+        public static final int line3=0x7f0a006f;
+        public static final int linear=0x7f0a0024;
         public static final int listMode=0x7f0a0009;
-        public static final int list_item=0x7f0a002b;
-        public static final int media_actions=0x7f0a005c;
+        public static final int list_item=0x7f0a0030;
+        public static final int media_actions=0x7f0a0061;
         public static final int middle=0x7f0a001c;
         public static final int multiply=0x7f0a0014;
         public static final int never=0x7f0a0020;
         public static final int none=0x7f0a000e;
         public static final int normal=0x7f0a000a;
-        public static final int notification_background=0x7f0a0064;
-        public static final int notification_main_column=0x7f0a005f;
-        public static final int notification_main_column_container=0x7f0a005e;
-        public static final int parentPanel=0x7f0a0030;
+        public static final int notification_background=0x7f0a0069;
+        public static final int notification_main_column=0x7f0a0064;
+        public static final int notification_main_column_container=0x7f0a0063;
+        public static final int parentPanel=0x7f0a0035;
         public static final int progress_circular=0x7f0a0005;
         public static final int progress_horizontal=0x7f0a0006;
-        public static final int radio=0x7f0a0040;
-        public static final int right_icon=0x7f0a0067;
-        public static final int right_side=0x7f0a0060;
+        public static final int radio=0x7f0a0045;
+        public static final int right_icon=0x7f0a006c;
+        public static final int right_side=0x7f0a0065;
         public static final int screen=0x7f0a0015;
-        public static final int scrollIndicatorDown=0x7f0a0036;
-        public static final int scrollIndicatorUp=0x7f0a0032;
-        public static final int scrollView=0x7f0a0033;
-        public static final int search_badge=0x7f0a004b;
-        public static final int search_bar=0x7f0a004a;
-        public static final int search_button=0x7f0a004c;
-        public static final int search_close_btn=0x7f0a0051;
-        public static final int search_edit_frame=0x7f0a004d;
-        public static final int search_go_btn=0x7f0a0053;
-        public static final int search_mag_icon=0x7f0a004e;
-        public static final int search_plate=0x7f0a004f;
-        public static final int search_src_text=0x7f0a0050;
-        public static final int search_voice_btn=0x7f0a0054;
-        public static final int select_dialog_listview=0x7f0a0055;
-        public static final int shortcut=0x7f0a003f;
+        public static final int scrollIndicatorDown=0x7f0a003b;
+        public static final int scrollIndicatorUp=0x7f0a0037;
+        public static final int scrollView=0x7f0a0038;
+        public static final int search_badge=0x7f0a0050;
+        public static final int search_bar=0x7f0a004f;
+        public static final int search_button=0x7f0a0051;
+        public static final int search_close_btn=0x7f0a0056;
+        public static final int search_edit_frame=0x7f0a0052;
+        public static final int search_go_btn=0x7f0a0058;
+        public static final int search_mag_icon=0x7f0a0053;
+        public static final int search_plate=0x7f0a0054;
+        public static final int search_src_text=0x7f0a0055;
+        public static final int search_voice_btn=0x7f0a0059;
+        public static final int select_dialog_listview=0x7f0a005a;
+        public static final int shortcut=0x7f0a0044;
         public static final int showCustom=0x7f0a000f;
         public static final int showHome=0x7f0a0010;
         public static final int showTitle=0x7f0a0011;
-        public static final int spacer=0x7f0a002f;
+        public static final int smart=0x7f0a0025;
+        public static final int spacer=0x7f0a0034;
         public static final int split_action_bar=0x7f0a0007;
         public static final int src_atop=0x7f0a0016;
         public static final int src_in=0x7f0a0017;
         public static final int src_over=0x7f0a0018;
-        public static final int status_bar_latest_event_content=0x7f0a005b;
-        public static final int submenuarrow=0x7f0a0041;
-        public static final int submit_area=0x7f0a0052;
+        public static final int status_bar_latest_event_content=0x7f0a0060;
+        public static final int submenuarrow=0x7f0a0046;
+        public static final int submit_area=0x7f0a0057;
         public static final int tabMode=0x7f0a000b;
-        public static final int text=0x7f0a006b;
-        public static final int text2=0x7f0a0069;
-        public static final int textSpacerNoButtons=0x7f0a0035;
-        public static final int textSpacerNoTitle=0x7f0a0034;
-        public static final int time=0x7f0a0061;
-        public static final int title=0x7f0a002d;
-        public static final int titleDividerNoCustom=0x7f0a003c;
-        public static final int title_template=0x7f0a003a;
+        public static final int text=0x7f0a0070;
+        public static final int text2=0x7f0a006e;
+        public static final int textSpacerNoButtons=0x7f0a003a;
+        public static final int textSpacerNoTitle=0x7f0a0039;
+        public static final int time=0x7f0a0066;
+        public static final int title=0x7f0a0032;
+        public static final int titleDividerNoCustom=0x7f0a0041;
+        public static final int title_template=0x7f0a003f;
         public static final int top=0x7f0a0023;
-        public static final int topPanel=0x7f0a0039;
+        public static final int topPanel=0x7f0a003e;
         public static final int up=0x7f0a0008;
         public static final int useLogo=0x7f0a0012;
         public static final int withText=0x7f0a0021;
@@ -2031,6 +2293,7 @@ containing a value of this type.
         public static final int abc_shareactionprovider_share_with_application=0x7f050011;
         public static final int abc_toolbar_collapse_description=0x7f050012;
         public static final int app_name=0x7f050021;
+        public static final int hello_blank_fragment=0x7f050022;
         public static final int search_menu_title=0x7f050013;
         public static final int status_bar_notification_info_overflow=0x7f050014;
     }
@@ -7091,5 +7354,517 @@ containing a value of this type.
           @attr name android:layout
         */
         public static final int ViewStubCompat_android_layout = 1;
+        /** Attributes that can be used with a stl_SmartTabLayout.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #stl_SmartTabLayout_stl_clickable com.face.www.blueui.test:stl_clickable}</code></td><td></td></tr>
+           <tr><td><code>{@link #stl_SmartTabLayout_stl_customTabTextLayoutId com.face.www.blueui.test:stl_customTabTextLayoutId}</code></td><td></td></tr>
+           <tr><td><code>{@link #stl_SmartTabLayout_stl_customTabTextViewId com.face.www.blueui.test:stl_customTabTextViewId}</code></td><td></td></tr>
+           <tr><td><code>{@link #stl_SmartTabLayout_stl_defaultTabBackground com.face.www.blueui.test:stl_defaultTabBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #stl_SmartTabLayout_stl_defaultTabTextAllCaps com.face.www.blueui.test:stl_defaultTabTextAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #stl_SmartTabLayout_stl_defaultTabTextColor com.face.www.blueui.test:stl_defaultTabTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #stl_SmartTabLayout_stl_defaultTabTextHorizontalPadding com.face.www.blueui.test:stl_defaultTabTextHorizontalPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #stl_SmartTabLayout_stl_defaultTabTextMinWidth com.face.www.blueui.test:stl_defaultTabTextMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #stl_SmartTabLayout_stl_defaultTabTextSize com.face.www.blueui.test:stl_defaultTabTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #stl_SmartTabLayout_stl_distributeEvenly com.face.www.blueui.test:stl_distributeEvenly}</code></td><td></td></tr>
+           <tr><td><code>{@link #stl_SmartTabLayout_stl_dividerColor com.face.www.blueui.test:stl_dividerColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #stl_SmartTabLayout_stl_dividerColors com.face.www.blueui.test:stl_dividerColors}</code></td><td></td></tr>
+           <tr><td><code>{@link #stl_SmartTabLayout_stl_dividerThickness com.face.www.blueui.test:stl_dividerThickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #stl_SmartTabLayout_stl_drawDecorationAfterTab com.face.www.blueui.test:stl_drawDecorationAfterTab}</code></td><td></td></tr>
+           <tr><td><code>{@link #stl_SmartTabLayout_stl_indicatorAlwaysInCenter com.face.www.blueui.test:stl_indicatorAlwaysInCenter}</code></td><td></td></tr>
+           <tr><td><code>{@link #stl_SmartTabLayout_stl_indicatorColor com.face.www.blueui.test:stl_indicatorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #stl_SmartTabLayout_stl_indicatorColors com.face.www.blueui.test:stl_indicatorColors}</code></td><td></td></tr>
+           <tr><td><code>{@link #stl_SmartTabLayout_stl_indicatorCornerRadius com.face.www.blueui.test:stl_indicatorCornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #stl_SmartTabLayout_stl_indicatorGravity com.face.www.blueui.test:stl_indicatorGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #stl_SmartTabLayout_stl_indicatorInFront com.face.www.blueui.test:stl_indicatorInFront}</code></td><td></td></tr>
+           <tr><td><code>{@link #stl_SmartTabLayout_stl_indicatorInterpolation com.face.www.blueui.test:stl_indicatorInterpolation}</code></td><td></td></tr>
+           <tr><td><code>{@link #stl_SmartTabLayout_stl_indicatorThickness com.face.www.blueui.test:stl_indicatorThickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #stl_SmartTabLayout_stl_indicatorWidth com.face.www.blueui.test:stl_indicatorWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #stl_SmartTabLayout_stl_indicatorWithoutPadding com.face.www.blueui.test:stl_indicatorWithoutPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #stl_SmartTabLayout_stl_overlineColor com.face.www.blueui.test:stl_overlineColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #stl_SmartTabLayout_stl_overlineThickness com.face.www.blueui.test:stl_overlineThickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #stl_SmartTabLayout_stl_titleOffset com.face.www.blueui.test:stl_titleOffset}</code></td><td></td></tr>
+           <tr><td><code>{@link #stl_SmartTabLayout_stl_underlineColor com.face.www.blueui.test:stl_underlineColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #stl_SmartTabLayout_stl_underlineThickness com.face.www.blueui.test:stl_underlineThickness}</code></td><td></td></tr>
+           </table>
+           @see #stl_SmartTabLayout_stl_clickable
+           @see #stl_SmartTabLayout_stl_customTabTextLayoutId
+           @see #stl_SmartTabLayout_stl_customTabTextViewId
+           @see #stl_SmartTabLayout_stl_defaultTabBackground
+           @see #stl_SmartTabLayout_stl_defaultTabTextAllCaps
+           @see #stl_SmartTabLayout_stl_defaultTabTextColor
+           @see #stl_SmartTabLayout_stl_defaultTabTextHorizontalPadding
+           @see #stl_SmartTabLayout_stl_defaultTabTextMinWidth
+           @see #stl_SmartTabLayout_stl_defaultTabTextSize
+           @see #stl_SmartTabLayout_stl_distributeEvenly
+           @see #stl_SmartTabLayout_stl_dividerColor
+           @see #stl_SmartTabLayout_stl_dividerColors
+           @see #stl_SmartTabLayout_stl_dividerThickness
+           @see #stl_SmartTabLayout_stl_drawDecorationAfterTab
+           @see #stl_SmartTabLayout_stl_indicatorAlwaysInCenter
+           @see #stl_SmartTabLayout_stl_indicatorColor
+           @see #stl_SmartTabLayout_stl_indicatorColors
+           @see #stl_SmartTabLayout_stl_indicatorCornerRadius
+           @see #stl_SmartTabLayout_stl_indicatorGravity
+           @see #stl_SmartTabLayout_stl_indicatorInFront
+           @see #stl_SmartTabLayout_stl_indicatorInterpolation
+           @see #stl_SmartTabLayout_stl_indicatorThickness
+           @see #stl_SmartTabLayout_stl_indicatorWidth
+           @see #stl_SmartTabLayout_stl_indicatorWithoutPadding
+           @see #stl_SmartTabLayout_stl_overlineColor
+           @see #stl_SmartTabLayout_stl_overlineThickness
+           @see #stl_SmartTabLayout_stl_titleOffset
+           @see #stl_SmartTabLayout_stl_underlineColor
+           @see #stl_SmartTabLayout_stl_underlineThickness
+         */
+        public static final int[] stl_SmartTabLayout = {
+            0x7f0100e4, 0x7f0100e5, 0x7f0100e6, 0x7f0100e7,
+            0x7f0100e8, 0x7f0100e9, 0x7f0100ea, 0x7f0100eb,
+            0x7f0100ec, 0x7f0100ed, 0x7f0100ee, 0x7f0100ef,
+            0x7f0100f0, 0x7f0100f1, 0x7f0100f2, 0x7f0100f3,
+            0x7f0100f4, 0x7f0100f5, 0x7f0100f6, 0x7f0100f7,
+            0x7f0100f8, 0x7f0100f9, 0x7f0100fa, 0x7f0100fb,
+            0x7f0100fc, 0x7f0100fd, 0x7f0100fe, 0x7f0100ff,
+            0x7f010100
+        };
+        /**
+          <p>This symbol is the offset where the {@link com.face.www.blueui.test.R.attr#stl_clickable}
+          attribute's value can be found in the {@link #stl_SmartTabLayout} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.face.www.blueui.test:stl_clickable
+        */
+        public static final int stl_SmartTabLayout_stl_clickable = 26;
+        /**
+          <p>This symbol is the offset where the {@link com.face.www.blueui.test.R.attr#stl_customTabTextLayoutId}
+          attribute's value can be found in the {@link #stl_SmartTabLayout} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.face.www.blueui.test:stl_customTabTextLayoutId
+        */
+        public static final int stl_SmartTabLayout_stl_customTabTextLayoutId = 23;
+        /**
+          <p>This symbol is the offset where the {@link com.face.www.blueui.test.R.attr#stl_customTabTextViewId}
+          attribute's value can be found in the {@link #stl_SmartTabLayout} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.face.www.blueui.test:stl_customTabTextViewId
+        */
+        public static final int stl_SmartTabLayout_stl_customTabTextViewId = 24;
+        /**
+          <p>This symbol is the offset where the {@link com.face.www.blueui.test.R.attr#stl_defaultTabBackground}
+          attribute's value can be found in the {@link #stl_SmartTabLayout} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.face.www.blueui.test:stl_defaultTabBackground
+        */
+        public static final int stl_SmartTabLayout_stl_defaultTabBackground = 17;
+        /**
+          <p>This symbol is the offset where the {@link com.face.www.blueui.test.R.attr#stl_defaultTabTextAllCaps}
+          attribute's value can be found in the {@link #stl_SmartTabLayout} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.face.www.blueui.test:stl_defaultTabTextAllCaps
+        */
+        public static final int stl_SmartTabLayout_stl_defaultTabTextAllCaps = 18;
+        /**
+          <p>This symbol is the offset where the {@link com.face.www.blueui.test.R.attr#stl_defaultTabTextColor}
+          attribute's value can be found in the {@link #stl_SmartTabLayout} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.face.www.blueui.test:stl_defaultTabTextColor
+        */
+        public static final int stl_SmartTabLayout_stl_defaultTabTextColor = 19;
+        /**
+          <p>This symbol is the offset where the {@link com.face.www.blueui.test.R.attr#stl_defaultTabTextHorizontalPadding}
+          attribute's value can be found in the {@link #stl_SmartTabLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.face.www.blueui.test:stl_defaultTabTextHorizontalPadding
+        */
+        public static final int stl_SmartTabLayout_stl_defaultTabTextHorizontalPadding = 21;
+        /**
+          <p>This symbol is the offset where the {@link com.face.www.blueui.test.R.attr#stl_defaultTabTextMinWidth}
+          attribute's value can be found in the {@link #stl_SmartTabLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.face.www.blueui.test:stl_defaultTabTextMinWidth
+        */
+        public static final int stl_SmartTabLayout_stl_defaultTabTextMinWidth = 22;
+        /**
+          <p>This symbol is the offset where the {@link com.face.www.blueui.test.R.attr#stl_defaultTabTextSize}
+          attribute's value can be found in the {@link #stl_SmartTabLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.face.www.blueui.test:stl_defaultTabTextSize
+        */
+        public static final int stl_SmartTabLayout_stl_defaultTabTextSize = 20;
+        /**
+          <p>This symbol is the offset where the {@link com.face.www.blueui.test.R.attr#stl_distributeEvenly}
+          attribute's value can be found in the {@link #stl_SmartTabLayout} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.face.www.blueui.test:stl_distributeEvenly
+        */
+        public static final int stl_SmartTabLayout_stl_distributeEvenly = 25;
+        /**
+          <p>This symbol is the offset where the {@link com.face.www.blueui.test.R.attr#stl_dividerColor}
+          attribute's value can be found in the {@link #stl_SmartTabLayout} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.face.www.blueui.test:stl_dividerColor
+        */
+        public static final int stl_SmartTabLayout_stl_dividerColor = 14;
+        /**
+          <p>This symbol is the offset where the {@link com.face.www.blueui.test.R.attr#stl_dividerColors}
+          attribute's value can be found in the {@link #stl_SmartTabLayout} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.face.www.blueui.test:stl_dividerColors
+        */
+        public static final int stl_SmartTabLayout_stl_dividerColors = 15;
+        /**
+          <p>This symbol is the offset where the {@link com.face.www.blueui.test.R.attr#stl_dividerThickness}
+          attribute's value can be found in the {@link #stl_SmartTabLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.face.www.blueui.test:stl_dividerThickness
+        */
+        public static final int stl_SmartTabLayout_stl_dividerThickness = 16;
+        /**
+          <p>This symbol is the offset where the {@link com.face.www.blueui.test.R.attr#stl_drawDecorationAfterTab}
+          attribute's value can be found in the {@link #stl_SmartTabLayout} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.face.www.blueui.test:stl_drawDecorationAfterTab
+        */
+        public static final int stl_SmartTabLayout_stl_drawDecorationAfterTab = 28;
+        /**
+          <p>This symbol is the offset where the {@link com.face.www.blueui.test.R.attr#stl_indicatorAlwaysInCenter}
+          attribute's value can be found in the {@link #stl_SmartTabLayout} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.face.www.blueui.test:stl_indicatorAlwaysInCenter
+        */
+        public static final int stl_SmartTabLayout_stl_indicatorAlwaysInCenter = 0;
+        /**
+          <p>This symbol is the offset where the {@link com.face.www.blueui.test.R.attr#stl_indicatorColor}
+          attribute's value can be found in the {@link #stl_SmartTabLayout} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.face.www.blueui.test:stl_indicatorColor
+        */
+        public static final int stl_SmartTabLayout_stl_indicatorColor = 5;
+        /**
+          <p>This symbol is the offset where the {@link com.face.www.blueui.test.R.attr#stl_indicatorColors}
+          attribute's value can be found in the {@link #stl_SmartTabLayout} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.face.www.blueui.test:stl_indicatorColors
+        */
+        public static final int stl_SmartTabLayout_stl_indicatorColors = 6;
+        /**
+          <p>This symbol is the offset where the {@link com.face.www.blueui.test.R.attr#stl_indicatorCornerRadius}
+          attribute's value can be found in the {@link #stl_SmartTabLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.face.www.blueui.test:stl_indicatorCornerRadius
+        */
+        public static final int stl_SmartTabLayout_stl_indicatorCornerRadius = 9;
+        /**
+          <p>This symbol is the offset where the {@link com.face.www.blueui.test.R.attr#stl_indicatorGravity}
+          attribute's value can be found in the {@link #stl_SmartTabLayout} array.
+
+
+          <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>bottom</code></td><td>0</td><td></td></tr>
+<tr><td><code>top</code></td><td>1</td><td></td></tr>
+<tr><td><code>center</code></td><td>2</td><td></td></tr>
+</table>
+          @attr name com.face.www.blueui.test:stl_indicatorGravity
+        */
+        public static final int stl_SmartTabLayout_stl_indicatorGravity = 4;
+        /**
+          <p>This symbol is the offset where the {@link com.face.www.blueui.test.R.attr#stl_indicatorInFront}
+          attribute's value can be found in the {@link #stl_SmartTabLayout} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.face.www.blueui.test:stl_indicatorInFront
+        */
+        public static final int stl_SmartTabLayout_stl_indicatorInFront = 2;
+        /**
+          <p>This symbol is the offset where the {@link com.face.www.blueui.test.R.attr#stl_indicatorInterpolation}
+          attribute's value can be found in the {@link #stl_SmartTabLayout} array.
+
+
+          <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>smart</code></td><td>0</td><td></td></tr>
+<tr><td><code>linear</code></td><td>1</td><td></td></tr>
+</table>
+          @attr name com.face.www.blueui.test:stl_indicatorInterpolation
+        */
+        public static final int stl_SmartTabLayout_stl_indicatorInterpolation = 3;
+        /**
+          <p>This symbol is the offset where the {@link com.face.www.blueui.test.R.attr#stl_indicatorThickness}
+          attribute's value can be found in the {@link #stl_SmartTabLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.face.www.blueui.test:stl_indicatorThickness
+        */
+        public static final int stl_SmartTabLayout_stl_indicatorThickness = 7;
+        /**
+          <p>This symbol is the offset where the {@link com.face.www.blueui.test.R.attr#stl_indicatorWidth}
+          attribute's value can be found in the {@link #stl_SmartTabLayout} array.
+
+
+          <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>auto</code></td><td>-1</td><td></td></tr>
+</table>
+          @attr name com.face.www.blueui.test:stl_indicatorWidth
+        */
+        public static final int stl_SmartTabLayout_stl_indicatorWidth = 8;
+        /**
+          <p>This symbol is the offset where the {@link com.face.www.blueui.test.R.attr#stl_indicatorWithoutPadding}
+          attribute's value can be found in the {@link #stl_SmartTabLayout} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.face.www.blueui.test:stl_indicatorWithoutPadding
+        */
+        public static final int stl_SmartTabLayout_stl_indicatorWithoutPadding = 1;
+        /**
+          <p>This symbol is the offset where the {@link com.face.www.blueui.test.R.attr#stl_overlineColor}
+          attribute's value can be found in the {@link #stl_SmartTabLayout} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.face.www.blueui.test:stl_overlineColor
+        */
+        public static final int stl_SmartTabLayout_stl_overlineColor = 10;
+        /**
+          <p>This symbol is the offset where the {@link com.face.www.blueui.test.R.attr#stl_overlineThickness}
+          attribute's value can be found in the {@link #stl_SmartTabLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.face.www.blueui.test:stl_overlineThickness
+        */
+        public static final int stl_SmartTabLayout_stl_overlineThickness = 11;
+        /**
+          <p>This symbol is the offset where the {@link com.face.www.blueui.test.R.attr#stl_titleOffset}
+          attribute's value can be found in the {@link #stl_SmartTabLayout} array.
+
+
+          <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>auto_center</code></td><td>-1</td><td></td></tr>
+</table>
+          @attr name com.face.www.blueui.test:stl_titleOffset
+        */
+        public static final int stl_SmartTabLayout_stl_titleOffset = 27;
+        /**
+          <p>This symbol is the offset where the {@link com.face.www.blueui.test.R.attr#stl_underlineColor}
+          attribute's value can be found in the {@link #stl_SmartTabLayout} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.face.www.blueui.test:stl_underlineColor
+        */
+        public static final int stl_SmartTabLayout_stl_underlineColor = 12;
+        /**
+          <p>This symbol is the offset where the {@link com.face.www.blueui.test.R.attr#stl_underlineThickness}
+          attribute's value can be found in the {@link #stl_SmartTabLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.face.www.blueui.test:stl_underlineThickness
+        */
+        public static final int stl_SmartTabLayout_stl_underlineThickness = 13;
+        /** Attributes that can be used with a swipeTab.
+         */
+        public static final int[] swipeTab = {
+            
+        };
     };
 }
