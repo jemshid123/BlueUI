@@ -4,6 +4,7 @@ BlueUi is aimed at creating an android liberary module which will enable faster 
  <h2>View Pager with custom effects</h2>
  
  <p>This allows you to create a simple view pager with zoom out effect on swiping </p>
+ <img src="img/up.png" alt="View Pager" />
  
  
 
